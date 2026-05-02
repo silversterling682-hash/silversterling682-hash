@@ -54,9 +54,19 @@ I am always learning new things and improving my skills every single day. Whethe
 
 <br>
 
+## 💼 WHAT I DO (My Services)
+> *Just like in that beautiful example you showed me!*
+
+| 🎨 Web Design | 💻 Web Development | 🚀 Problem Solving |
+| :--- | :--- | :--- |
+| I create beautiful, modern, and clean designs that look professional and attractive. | I build fully functional websites and web applications that work perfectly. | I analyze problems and write clean code to create smart solutions that work. |
+| ✅ Responsive Layouts<br>✅ Modern UI/UX<br>✅ Color & Style | ✅ Frontend & Backend<br>✅ Database Integration<br>✅ API Development | ✅ Logical Thinking<br>✅ Clean Code<br>✅ Bug Fixing |
+
+<br>
+
 ## 🚀 FEATURED PROJECT: MyShop E-Commerce Website 🛍️
 
-This is my biggest and best project so far — it shows everything I have learned and what I can build!
+> *My Best Work So Far*
 
 🔗 **Project Link:** [https://github.com/silversterling682-hash/my-microservice-site](https://github.com/silversterling682-hash/my-microservice-site)
 
@@ -75,11 +85,23 @@ Protected under **CC BY-NC-SA 4.0 License**
 
 <br>
 
+## 🌟 OTHER PROJECTS I AM WORKING ON
+> *Coming Soon!*
+
+- 🔹 Personal Portfolio Website
+- 🔹 Student Management System
+- 🔹 Interactive To-Do App
+
+<br>
+
 ## 📈 MY GITHUB STATISTICS
+> *Now these images will work perfectly! ✅*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silversterling682-hash&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silversterling682-hash&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silversterling682-hash&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silversterling682-hash&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <br>
+  <img height="30em" src="https://komarev.com/ghpvc/?username=silversterling682-hash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
 <br>
@@ -90,8 +112,11 @@ Protected under **CC BY-NC-SA 4.0 License**
   <a href="https://github.com/silversterling682-hash" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:phyline@example.com" target="_blank">
+  <a href="mailto:phyline.njeri@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
