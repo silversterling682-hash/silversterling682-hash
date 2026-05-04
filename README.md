@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Fidel+👋;Web+Developer+%7C+Programmer;From+Nairobi,+Kenya+🇰🇪" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Fidel+👋;Web+Developer+%7C+Programmer;Building+Amazing+Things+🚀" alt="Typing SVG" />
 </div>
 
 <br>
@@ -17,7 +17,7 @@ I love turning ideas into reality through code — building websites that are no
 
 > 💡 **My Goal:** *To write clean code, solve real-world problems, and build technology that makes life easier!*
 
-I am always learning new things and improving my skills every single day. Whether it's designing a stunning user interface or building powerful systems behind the scenes — I enjoy every part of the process! 🚀
+I am always learning new things and improving my skills every single day. Whether it's designing a stunning user interface or building powerful systems behind the scenes — I enjoy every part of the development process!
 
 <br>
 
@@ -59,7 +59,7 @@ I am always learning new things and improving my skills every single day. Whethe
 
 | 🎨 Web Design | 💻 Web Development | 🚀 Problem Solving |
 | :--- | :--- | :--- |
-| I create beautiful, modern, and clean designs that look professional and attractive. | I build fully functional websites and web applications that work perfectly. | I analyze problems and write clean code to create smart solutions that work. |
+| I create beautiful, modern, and clean designs that look professional and attractive. | I build fully functional websites and web applications that work perfectly. | I analyze problems and write clean, efficient code. |
 | ✅ Responsive Layouts<br>✅ Modern UI/UX<br>✅ Color & Style | ✅ Frontend & Backend<br>✅ Database Integration<br>✅ API Development | ✅ Logical Thinking<br>✅ Clean Code<br>✅ Bug Fixing |
 
 <br>
@@ -94,15 +94,47 @@ Protected under **CC BY-NC-SA 4.0 License**
 
 <br>
 
-## 📈 MY GITHUB STATISTICS
-> *Now these images will work perfectly! ✅*
+## 📊 CURRENT GITHUB STATUS & STATISTICS
+> *Live Data - Updates Automatically!* ✨
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silversterling682-hash&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silversterling682-hash&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silversterling682-hash&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
   <br>
   <img height="30em" src="https://komarev.com/ghpvc/?username=silversterling682-hash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
+
+### 🔥 Contribution Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silversterling682-hash&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+<br>
+
+## 📂 MY REPOSITORIES
+
+### Top Projects:
+
+| Project | Description | Language | Link |
+|---------|-------------|----------|------|
+| **MyShop E-Commerce** | Microservices e-commerce platform with responsive design | JavaScript | [View](https://github.com/silversterling682-hash/my-microservice-site) |
+| **Student Management System** | Complete student management application | JavaScript | [View](https://github.com/silversterling682-hash/student-management-system) |
+| **Private Lock System** | 🔐 100% Client Side Encryption Tool | HTML | [View](https://github.com/silversterling682-hash/Private-Lock-System) |
+| **My-Yo-Do-List** | Interactive to-do list application | JavaScript | [View](https://github.com/silversterling682-hash/My-Yo-Do-List) |
+| **AI App** | Artificial Intelligence application | Python | [View](https://github.com/silversterling682-hash/AI-app-) |
+| **Friendly Octo Happiness** | Full-stack web app with database integration | Python/HTML/CSS/JS | [View](https://github.com/silversterling682-hash/friendly-octo-happiness) |
+| **Shadow Chat** | Real-time chat application | HTML | [View](https://github.com/silversterling682-hash/shadow-chat) |
+| **CommunityHub** | Full-stack community project | JavaScript | [View](https://github.com/Mshi-dev15/iyf-s10-week-12-Mshi-dev15) |
+
+<br>
+
+## 📈 MY GITHUB STATISTICS
+> *Detailed Analytics*
+
+✅ **Total Repositories:** 11+  
+✅ **Primary Languages:** JavaScript, Python, HTML/CSS  
+✅ **Specializations:** Web Development, Full-Stack, Microservices  
+✅ **Current Focus:** Building scalable applications with clean architecture  
 
 <br>
 
@@ -120,10 +152,16 @@ Protected under **CC BY-NC-SA 4.0 License**
   </a>
 </p>
 
-<p align="center">📍 Nairobi, Kenya 🇰🇪</p>
+<p align="center">📍 Nairobi, Kenya 🇰🇪 | 💻 Available for Collaboration</p>
 
 <br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </div>
+
+---
+
+<p align="center">
+  <i>Last Updated: May 4, 2026 | Keep building amazing things! 🚀</i>
+</p>
